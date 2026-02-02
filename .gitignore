@@ -311,3 +311,37 @@ pre-commit-hook.sh
 *.iml
 out
 gen
+
+# ==========================================
+# Custom Rules for Oceanography Research
+# ==========================================
+
+# 1. Ignore Large Data Files (CRITICAL)
+# Prevent accidentally committing 2GB NetCDF files
+*.nc
+*.nc4
+*.cdf
+*.grib
+*.grib2
+*.h5
+*.hdf5
+*.mat
+*.pkl
+*.npz
+
+# 2. Ignore Generated Plots
+# Usually we generate these via scripts, no need to track them
+*.png
+*.jpg
+*.pdf
+*.svg
+
+# 3. Ignore System/Cluster Logs
+# If you run scripts on a server/cluster
+*.log
+slurm-*.out
+core.*
+
+# 4. Ignore specific local secrets (e.g., API keys for data download)
+secrets.py
+config_local.py
