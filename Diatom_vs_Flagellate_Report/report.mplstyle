@@ -1,0 +1,75 @@
+# =======================================================
+# report.mplstyle - 学术报告与论文专用 Matplotlib 样式表
+# =======================================================
+
+# --- 1. 字体与 PDF 导出设置 ---
+# 强制使用 TrueType 字体，解决学术期刊系统报错及 PDF 矢量图文字发虚的问题
+pdf.fonttype : 42
+ps.fonttype : 42
+# 优先使用无衬线字体，干净利落
+font.family : sans-serif
+font.sans-serif : Arial, Helvetica, DejaVu Sans
+# 基础字号配置
+font.size : 10
+axes.titlesize : 12
+axes.labelsize : 11
+xtick.labelsize : 10
+ytick.labelsize : 10
+legend.fontsize : 10
+
+# --- 2. 坐标轴与边框 (极简风) ---
+# 隐藏顶部和右侧的边框，减少视觉噪音
+axes.spines.top : False
+axes.spines.right : False
+# 坐标轴线变细
+axes.linewidth : 1.0
+# 确保网格线在数据图形的下方，不遮挡数据
+axes.axisbelow : True
+
+# --- 3. 网格线配置 ---
+axes.grid : True
+grid.color : E5E5E5
+grid.linestyle : --
+grid.linewidth : 0.8
+
+# --- 4. 图例设置 ---
+# 隐藏图例自带的难看黑框
+legend.frameon : False
+legend.loc : best
+
+# --- 5. 线条与高级配色 ---
+# 经典高对比度配色 (Science/Nature 风格)
+axes.prop_cycle : cycler('color', ['E64B35', '4DBBD5', '00A087', '3C5488', 'F39B7F', '8491B4', '91D1C2', 'DC0000'])
+lines.linewidth : 2.0
+lines.markersize : 6
+
+# --- 6. 自动布局与防裁切 ---
+# 自动调整布局防重叠
+figure.autolayout : True
+# 导出时紧贴边缘，不留无效大白边
+savefig.bbox : tight
+# 导出透明背景
+savefig.transparent : True
+
+# Example Use
+# import matplotlib.pyplot as plt
+# import numpy as np
+
+# 一键加载同目录下的样式文件！
+# plt.style.use('./report.mplstyle')
+
+# ======== 下面直接开始画图，全自动应用样式 ========
+#layout = """
+#    AA
+#    BC
+#"""
+
+# fig, axes = plt.subplot_mosaic(layout, figsize=(10, 7))
+
+# ... (剩下的拼图代码和以前一样) ...
+
+plt.savefig('final_report_plot.pdf')
+
+# Example Prompt
+#“我需要画一个折线图对比A和B的性能。请使用 subplot_mosaic 帮我排版。图表样式请默认我已经通过 plt.style.use('./report.mplstyle') 加载了，你不需要在代码里写任何格式微调的代码（比如去边框、改字号），只管把数据画上去即可。”
+
