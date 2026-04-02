@@ -8,9 +8,7 @@ In this page, we will list the guidelines of GenAI usage and examples of citatio
 
 The term “GenAI” refers to the following tools as well as any other similar models that create content using sophisticated learning algorithms: ChatGPT, Claude, Copilot, Gemini, Llama, DeepSeek, and many translation tools. GenAI also refers to such tools that may be integrated into other services like Notion, Canva, and Grammarly.
 
-Students are permitted to use artificial intelligence tools, including generative AI, to gather information, review concepts or to help produce projects or mini-projects. However, students are ultimately accountable for the work they submit, and any content generated or supported by an artificial intelligence tool must be cited appropriately.
-
-An extra page at the end of each work explaining how GenAI is used is needed, with enough detail for everyone to understand the contribution. Use the APA guidelines (https://guides.library.ubc.ca/GenAI/cite) when citing GenAI.
+We are ultimately accountable for the work we submit, and any content generated or supported by an artificial intelligence tool must be cited appropriately. An extra page at the end of each work explaining how GenAI is used is needed, with enough detail for everyone to understand the contribution. Use the APA guidelines (https://guides.library.ubc.ca/GenAI/cite) when citing GenAI. A brief outline of guidelines is attached below.
 
 
 ## GenAI Citation
@@ -27,7 +25,7 @@ APA suggests that we should cite specific chats when they are used to generate i
 
 4, for methodology.
 
-Please note that it's a best practice to document our prompts for reference. It's not necessary to cite each one, but we should keep them handy as sources of data. We can also put the full text of long responses in an appendix or online supplemental materials.
+Note that it's a best practice to document our prompts for reference. It's not necessary to cite each one, but we should keep them handy as sources of data. We can also put the full text of long responses in an appendix or online supplemental materials.
 
 APA also suggests that, given that AI-generated content like chats are not created by a person, they cannot be considered personal communication. Instead, treat the content as an algorithm's output, and credit the author of the algorithm with a reference list entry and in-text citation.
 
@@ -62,3 +60,4 @@ Example:
 Parenthetical citation: (OpenAI, 2025)
 
 Narrative citation: OpenAI (2025)
+
