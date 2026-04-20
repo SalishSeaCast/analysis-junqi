@@ -162,6 +162,10 @@ From Khangaonkar et al. (2018),
 
 'Surface water nitrate concentrations in many of the subbasins routinely drop down to near-zero nitrate, thereby limiting algal growth during the summer months.' $\to$ Nitrate limits summer phytoplankton growth.
 
+From Jarnikova_2022:
+
+'We suggest that our results reflect a controlling influence of stratification on phytoplankton biomass and community structure. Strong stratification concentrates phytoplankton biomass in a thin well-lit surface layer while limiting supply of nutrients after the initial biological drawdown. In the model, these conditions favor high abundance of the gleaner flagellate group. In the NSoG, nutrient drawdown also occurs, but episodic wind events lead to stronger upwelling and mixing due to the comparatively weaker stratification and inject sharp pulses of nutrients into the near surface, leading to sharp, short-lived diatom blooms (Moore-Maley and Allen, 2022).'
+
 </details>
 
 
