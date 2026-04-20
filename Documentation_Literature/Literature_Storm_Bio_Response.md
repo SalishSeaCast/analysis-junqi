@@ -172,7 +172,33 @@ From Jarnikova_2022:
 
 </details>
 
+<details>
+<summary>Nitrate under duel control</summary>
 
+From François Ascani(2013):
+
+'The present analysis shows that these episodic anomalies are generally correlated with changes in the depth of isopycnal surfaces, are associated with features of relatively small horizontal scale and are found throughout the water column and the year, with no apparent seasonality. Using these characteristics in combination with observations of the density field and a numerical simulation, we conclude that the events are principally due to the floats sampling the rapid changes and/or small-scale features of the balanced eddy field and their associated depth anomalies in isopycnal and constant-nitrate surfaces. Although we find large vertical velocities associated with submesoscale density fronts in the model SML, they can affect the depth of the nutricline only during late winter to early spring when the bottom of the SML reaches the top of the nutricline. Whether they do affect the nutrient input into the euphotic during this time of the year has yet to be determined, however; a dedicated observational program focusing on this period of the year would be needed for this purpose.'
+
+'Nitrate also varies because of biological processes. To study this portion of the variability and to help to interpret it, we study the variations of nitrate and oxygen anomalies along isopycnal surfaces. We find three regimes. Within the upper euphotic zone, nitrate concentrations are near zero while oxygen anomalies are higher when the isopycnal surface shoals, and lower when it deepens. Within the lower euphotic zone, oxygen anomalies vary in a similar fashion as in the first regime but its variations are now correlated with nitrate variations in agreement with Redfield stoichiometry. Within the aphotic zone, nitrate and oxygen anomaly variations on an isopycnal surface are uncorrelated with depth variations of that surface, but they still co-vary in Redfield proportions.'
+
+@article{ASCANI2013119,
+title = {Physical and biological controls of nitrate concentrations in the upper subtropical North Pacific Ocean},
+journal = {Deep Sea Research Part II: Topical Studies in Oceanography},
+volume = {93},
+pages = {119-134},
+year = {2013},
+note = {Measuring Ocean Change: Results from BATS, HOT, and CARIACO},
+issn = {0967-0645},
+doi = {https://doi.org/10.1016/j.dsr2.2013.01.034},
+url = {https://www.sciencedirect.com/science/article/pii/S0967064513000544},
+author = {François Ascani and Kelvin J. Richards and Eric Firing and Scott Grant and Kenneth S. Johnson and Yanli Jia and Roger Lukas and David M. Karl},
+keywords = {Nitrogen cycle, Biological production, Mesoscale eddies, Submesoscale processes, North Pacific subtropical gyre},
+abstract = {Vertical profiles of nitrate down to 1000m depth were obtained about every 5 days and over several years by four profiling floats deployed near Station ALOHA in the North Pacific subtropical gyre. As a first step, we study the episodic and rapid (10–30 days) changes in the depth of constant-nitrate surfaces observed in the float records. These changes are in general correlated with similar changes in the depth of isopycnal surfaces and have a small horizontal scale (horizontal wavelength less than 2°). They are furthermore observed over the whole water column sampled by the floats and throughout the year, with no apparent seasonal cycle. Using these characteristics as well as a 7-year high-resolution time series of potential density at Station ALOHA and a high-resolution numerical simulation of the circulation around the station, we conclude that these episodic changes correspond to the depth anomalies associated with the rapid changes and/or small-scale features of the eddy field. Large vertical velocities associated with submesoscale frontal processes are confined to the surface mixed layer (SML) and play no role in the episodic nitrate events except, perhaps, in late winter to early spring when the SML reaches the top of the nutricline. As a second step, we study the variations of nitrate concentration along isopycnal surfaces, which enables us to isolate the effects of biological processes. In the lower euphotic zone (125–200m), the nitrate variations reflect the response of the ecosystem to the eddy variability: the shallower the isopycnal surface, the lower the nitrate concentration, and conversely, with nitrate varying in Redfield stoichiometric proportions with oxygen anomaly (defined here as dissolved oxygen minus oxygen saturation). In the upper euphotic zone (0–125m), in contrast, eddy-induced variations in along-isopycnal oxygen anomaly do not conform with current knowledge about supply and variability of nitrate, ammonium and dissolved organic matter; some other nitrogen source that remains to be identified is required for mass balance.}
+}
+
+Note that the paper was not downloaded as I don't think I will need to read it again.
+
+</details>
 
 ### PCA/EOF
 
