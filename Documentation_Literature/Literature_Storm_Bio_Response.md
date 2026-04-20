@@ -2,7 +2,6 @@
 
 To keep a reliable track of citations, this document provides detailed references during writing.
 
-[TOC]
 
 ## Topic
 
