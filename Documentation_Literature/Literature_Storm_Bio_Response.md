@@ -141,6 +141,10 @@ From thesis:
 'Fraser (middle + upper) Hope, BC flow gauge (daily)'
 'ECCC. Historical hydrometric data. Digital archive of Canadian hydrometric data [data set], 2022b. URL https://wateroffice.ec.gc.ca/mainmenu/historical data index e.html. last access: 25 Aug 2022.'
 
+Harrison 1991:
+
+'There have been few nutrient measurements in the  Fraser h v e r and the riverine plume. This paper reports  the first ammonium and urea values for the plume, the  first continuous profiles of nitrate and silicate and the  first series of daily measurements of nutrients to show  the dynamic nature of the plume. All nutrient concentrations (except silicate) were generally higher in the  riverine plume than in the river. Thus, in late July the  nutrient enrichment of the surface waters at these stations was probably due primarily to entrainment of  nutrient-rich deep water as the river flowed seaward,  and not due to the nutrients in the river water as  suggested by Stockner et al. (1979, 1980). Silicate was  the only nutrient that had higher concentrations in the  river ( > 6 0 yM) than in the plume (ca 40 PM). In fact,  vertical profiles of silicate and salinity were most useful  in tracing the plume and determining its thickness. The  nutrient concentrations of the Fraser River reported  here and by others (Hall et al. 1974, Clark & Drinnan  1980, Drinnan & Clark 1980)easily fall within the range  reported for other major unpolluted rivers of the world  (Meybeck 1982).' $\to$ Low nutrient discharge.
+
 </details>
 
 <details>
