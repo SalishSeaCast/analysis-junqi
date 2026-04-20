@@ -143,6 +143,14 @@ From thesis:
 
 </details>
 
+<details>
+<summary>NPGO Index</summary>
+
+From NOAA of US: https://psl.noaa.gov/data/timeseries/month/DS/NPGO/ 
+
+</details>
+
+
 ### Salinity and Nitrate
 
 <details>
