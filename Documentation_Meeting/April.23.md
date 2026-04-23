@@ -33,3 +33,13 @@ and see who cited it, especially his own paper.
 ## Title (temporary)
 
 Impact of atmospheric model resolution on a coupled bio-physical model of a coastal sea. 
+
+## To Do
+
+Read: A Circulation Model for Inlets Along the Central West Coast of Vancouver Island, Atmos, section 4 about HRDPS. 
+
+Read: Sensitivity of Labrador Sea Water formation to changes in model resolution, atmospheric forcing, and freshwater input.
+
+Read: The low-frequency residual circulation in Knight Inlet, British Columbia.
+
+Find Myers' papers that cited *Sensitivity of Labrador Sea Water Formation to Changes in Model Resolution, Atmospheric Forcing, and Freshwater Input*.
