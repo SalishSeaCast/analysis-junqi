@@ -30,8 +30,7 @@ Myers' Sensitivity of Labrador Sea Water Formation to Changes in Model Resolutio
 and see who cited it, especially his own paper.
 
 
-## Title (temporary)
-
+## Working Title
 Impact of atmospheric model resolution on a coupled bio-physical model of a coastal sea. 
 
 ## To Do
@@ -67,6 +66,8 @@ Acknowledging the fact that this farm is located off the northeast corner of Sar
 ### *Sensitivity of Labrador Sea Water Formation to Changes in Model Resolution, Atmospheric Forcing, and Freshwater Input*
 
 Found *Impact of Different Atmospheric Forcing Sets on Modeling Labrador Sea Water Production*
+
+Found *The Impacts of Air-Sea Fluxes and Model Resolution on Seasonal and Inter-Annual Variability of the Atlantic Meridional Overturning Circulation across the OSNAP West Section*
 
 Haven't read it.
 
