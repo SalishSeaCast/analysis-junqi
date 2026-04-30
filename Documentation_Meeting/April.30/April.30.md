@@ -60,3 +60,14 @@ The closest grid point was chosen. Lat = 49.0810, Lon = -123.3293, 3.87 km away 
 ## Question
 
 'Fast Fourier Transform analyses confirm are in reasonable agreement', how to measure the accuracy in the frequency domain?
+
+## To Do
+
+Pam Rocks, Halibut Bank and Sentry Shoal, 3 stations, do the same thing.
+
+Also, try FFT and see the components.
+
+Read Gemmrich and Pawlowicz's paper (one paper by them, on wave and winds in SoG.)
+
+
+
