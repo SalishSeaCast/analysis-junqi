@@ -345,3 +345,8 @@ core.*
 # 4. Ignore specific local secrets (e.g., API keys for data download)
 secrets.py
 config_local.py
+
+# Ignore specific paths
+
+/Analysis_Atmospheric_Forcing/Data_SandHead/Data_2008_2024
+/Analysis_Atmospheric_Forcing/Data_SandHead/Data_2018
