@@ -348,5 +348,5 @@ config_local.py
 
 # Ignore specific paths
 
-/Analysis_Atmospheric_Forcing/Data_SandHead/Data_2008_2024
-/Analysis_Atmospheric_Forcing/Data_SandHead/Data_2018
+/Analysis_Atmospheric_Forcing/Analysis_model_vs_observation/Data_sandheads_2008_2024
+/Analysis_Atmospheric_Forcing/Analysis_model_vs_observation/Data_2018
