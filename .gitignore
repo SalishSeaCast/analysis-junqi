@@ -328,6 +328,12 @@ gen
 *.mat
 *.pkl
 *.npz
+*.FB
+
+# ignore all csv files
+*.csv
+# except ones with 'upload'
+!*upload*.csv
 
 # 2. Ignore Generated Plots
 # Usually we generate these via scripts, no need to track them
@@ -346,7 +352,5 @@ core.*
 secrets.py
 config_local.py
 
-# Ignore specific paths
 
-/Analysis_Atmospheric_Forcing/Analysis_model_vs_observation/Data_sandheads_2008_2024
-/Analysis_Atmospheric_Forcing/Analysis_model_vs_observation/Data_2018
+
