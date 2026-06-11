@@ -21,3 +21,11 @@ See https://github.com/SalishSeaCast/analysis-junqi/blob/main/Analysis_Atmospher
 
 1. `PercentCloud` is missing in `CaSR`.
 2. How was `x` and `y` defined?
+
+## To Do
+
+1. daily averages at certain points to sea seasonal cycles for wind and solar radiation.
+
+2. Create a Digital Research Alliance of Canada Account and see if we need another authorization. https://ubc-moad-docs.readthedocs.io/en/latest/alliance-computing.html
+
+3. See `/results/forcing/atmospheric/GEM1.0/GRIB` for 1 km forcing fields. See if there are other iterseting storms.
