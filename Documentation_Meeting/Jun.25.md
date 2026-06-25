@@ -23,3 +23,10 @@ Slightly different between 2 models. Both reflect seasonal cycles (in 2018).
 ## Follow-up: SalishSeaCast on nibi
 
 Going welling? Need an initial field to start the running.
+
+
+## To Do
+
+1. Find another year (or years?) of solar radiation, and see seasonal cycle. It probable that there will be systemic errors between models.
+
+2. Run test runs of `SalishSeaCast`.
