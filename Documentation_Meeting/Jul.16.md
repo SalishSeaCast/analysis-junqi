@@ -31,3 +31,15 @@
 
     `command: pixi run -m $HOME/MEOPAR/SalishSeaCmd salishsea run /home/junqiqiu/MEOPAR/SS-run-sets/SalishSea/jqiu/v202111_CaSR_test_run/nibi-example.yaml  $SCRATCH/MEOPAR/junqi_test_results/junqi_test_results_CaSR`
 
+
+
+
+## Remember 
+
+When changing the atmos forcing filds, change `namsbc_core   !   namsbc_core  CORE bulk formulae` and `namsbc_apr    !   Atmospheric pressure used as ocean forcing or in bulk` as well.
+
+To find errors, go to the `yaml` file for the run directory and the errors are docummented. Use command `grep 'E R' ocean.output` to see if there are errors.
+
+## To Do
+
+There is a low-oxygey going on in Juan de Fuca (facing the Pacific), and it's likely caused by stronger/longer coastal upwelling (caused by wind). Go and take a look. We expect to see wind coming from the North in the past month or 1 and a half. 
