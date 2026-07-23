@@ -23,3 +23,12 @@ Spatially, the current velocity increased in CaSR results in fjords or inlets wh
 
 Still waiting for them?
 
+## To Do
+
+1. Rotate the grids from SalishSeaCast resylts. The u and v are along the grids instead of east-north. Also take a look at the staggered-grids.
+
+2. Take a look at the temperature and salinity.
+
+3. Run CaSR simulate for a month to see if the dfference of surface current was caused by pressure offsets.
+
+4. Take a look at biological response in the 1 month simulation.
