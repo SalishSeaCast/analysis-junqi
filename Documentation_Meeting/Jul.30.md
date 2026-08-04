@@ -25,3 +25,15 @@ https://github.com/SalishSeaCast/analysis-junqi/blob/main/Analysis_Atmospheric_F
 The wind speed alone may not explain the hypoxia. The paper indicates that the timing of upwelling affects the phytoplankton and bioprocess affects the hypoxia.
 
 https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022GL101857
+
+## To Do
+
+take a look if there is something wrong with the forcing filed on Mar.2, 2023. The Outputs have extremely high velocity in the north. 
+
+Make a small change in the def file to have flux outputs. 
+
+Unstagger the grids when visualizing `u` and `v`.
+
+Temperature profiles to see if the temperature difference is caused by mixing or low solar radiation.
+
+Invite people for PO Seminar. 
