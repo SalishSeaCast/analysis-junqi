@@ -22,3 +22,12 @@ The wind speed and solar radiation have some errors but not significant enough t
 https://github.com/SalishSeaCast/analysis-junqi/blob/main/Analysis_Atmospheric_Forcing/Analysis_results_comparison/Test_results_comparison/01mar23_CaSR_wind_only.ipynb
 
 Looks good. No significant error of `SST` or `surface velocity` within the 24 hours. 
+
+
+## To Do
+
+
+Zoom in the fjords to see the forcing fields.
+
+Swap more variables and run influx analysis.
+
