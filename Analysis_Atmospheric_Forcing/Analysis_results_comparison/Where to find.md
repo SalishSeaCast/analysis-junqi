@@ -8,5 +8,5 @@
 
 > /home/junqiqiu/scratch/MEOPAR/junqi_test_results/junqi_00mar23_results_CaSR/SalishSea_1h_20230301_20230331_grid_T.nc
 
-Save it to `/ocean/results/CaSR/00mar23`.
+Save it to `/ocean/jqiu/results/CaSR/00mar23`.
 
