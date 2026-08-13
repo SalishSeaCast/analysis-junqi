@@ -24,3 +24,4 @@ See the Nitrate (surface or 0-10 m) in the 1 month run.
 
 Surface Temp and see the region difference on 31 Mar (at the end of the run).
 
+If want to change the output frequency, see `/home/junqiqiu/MEOPAR/SS-run-sets/SalishSea/sea/Carbon_v202111/file_def_small_ds.xml` for example.
