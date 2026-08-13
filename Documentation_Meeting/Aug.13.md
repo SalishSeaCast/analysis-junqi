@@ -13,3 +13,14 @@ Rain driven surface velocity increase: https://agupubs.onlinelibrary.wiley.com/d
 ## Mar 2023 Velocity and SST
 
 https://github.com/SalishSeaCast/analysis-junqi/blob/main/Analysis_Atmospheric_Forcing/Analysis_results_comparison/Test_results_comparison/00mar23_CaSRvsHRDPS.ipynb
+
+## To Do
+
+If we want reliable surface velocity, check Ben's thesis chapter 2 for surface drifters.
+
+See the flux field (one day in so far) for both HRDPS and CaSR driven simulations and see the difference.
+
+See the Nitrate (surface or 0-10 m) in the 1 month run. 
+
+Surface Temp and see the region difference on 31 Mar (at the end of the run).
+
