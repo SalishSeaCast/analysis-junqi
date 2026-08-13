@@ -329,6 +329,7 @@ gen
 *.pkl
 *.npz
 *.FB
+*.xml
 
 # ignore all csv files
 *.csv
