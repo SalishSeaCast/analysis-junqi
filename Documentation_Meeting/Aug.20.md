@@ -29,3 +29,12 @@ The `CaSR` downward heat flux is lower than that of `HRDPS`.
 Maybe the SST decrease was caused by surface cooling? But the air temperature for `CaSR` is generally higher than `HRDPS`.
 
 https://github.com/SalishSeaCast/analysis-junqi/blob/main/Analysis_Atmospheric_Forcing/Analysis_forcing_comparison/Analysis_spring/Spring_variables_inspector.ipynb
+
+## Still working on HRDPS 1km
+
+The conversion was incorrect. There were accumulative variables, which I thought was hourly.
+
+## Output Variables
+
+No `ptrc` outputs. I will change the configuration and output frequencies and run them again.
+
