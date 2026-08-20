@@ -36,5 +36,12 @@ The conversion was incorrect. There were accumulative variables, which I thought
 
 ## Output Variables
 
-No `ptrc` outputs. I will change the configuration and output frequencies and run them again.
+No `ptrc` outputs. I will change the configuration and output frequencies and run them again. (Go to biol for nitrate, not ptrc)
+
+
+## To Do
+
+Pull everything on Mar 2023 together and figure out the story. 
+
+
 
