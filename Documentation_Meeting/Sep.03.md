@@ -20,3 +20,4 @@ CaSR is using grid points involving land area in the fjords.
 
 Maybe use a remote point in the open ocean to balance it?
 
+https://github.com/SalishSeaCast/analysis-junqi/blob/main/Analysis_Atmospheric_Forcing/Analysis_forcing_comparison/Analysis_weights/Fjords.ipynb
