@@ -21,3 +21,10 @@ CaSR is using grid points involving land area in the fjords.
 Maybe use a remote point in the open ocean to balance it?
 
 https://github.com/SalishSeaCast/analysis-junqi/blob/main/Analysis_Atmospheric_Forcing/Analysis_forcing_comparison/Analysis_weights/Fjords.ipynb
+
+
+## To Do
+
+Take a look at the grid points not used and see if it's more correlated with the observation data. 
+
+Take a look at June, September and December. Change the `time namelist` and `yaml` file. `time 000` is labeled in `restart` file (plus 1 when using) and `time end` can be calculated by 2160 * Number of days. There are 2160 time steps in a day, 40 s step size. 
