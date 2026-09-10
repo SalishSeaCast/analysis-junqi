@@ -38,3 +38,9 @@ Correlation: `nearest point` and `nearest sea point` have similar correlation wi
 RMSE: nearest sea point significantly better, but still has some error.
 
 https://github.com/SalishSeaCast/analysis-junqi/blob/main/Analysis_Atmospheric_Forcing/Analysis_forcing_vs_observation/Analysis_Fjords/Pam_Rocks_Nearest_vs_Nearest_Sea_point.ipynb
+
+## To Do
+
+To correct air temperature in fjords, use altitude or use the nearest sea point? Find out. 
+
+Run SalishSeaCast with HRDPS 1km and HRDPS 10km in the 4 months. Make sure that we do have the data. 
