@@ -36,3 +36,5 @@ Grid point: `nearest point` to Pam Rock has lower air temperature than its `near
 Correlation: `nearest point` and `nearest sea point` have similar correlation with observation results.
 
 RMSE: nearest sea point significantly better, but still has some error.
+
+https://github.com/SalishSeaCast/analysis-junqi/blob/main/Analysis_Atmospheric_Forcing/Analysis_forcing_vs_observation/Analysis_Fjords/Pam_Rocks_Nearest_vs_Nearest_Sea_point.ipynb
