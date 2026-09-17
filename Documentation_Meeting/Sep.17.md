@@ -22,3 +22,15 @@ https://github.com/SalishSeaCast/analysis-junqi/blob/main/Analysis_Atmospheric_F
 
 ## Manman's Email?
 
+
+
+## To Do
+
+Take another look at HRDPS 1 Weights file and the forcing field through it.
+
+SSS, halocline depth and strength (how deep and steep), RMSE velocity averaged over the surface (or in boxes), near surface nitrate, diatoms and flagellates. 
+
+Long time scale. 1d looks good so far and we could have `1h` outputs anytime we like. 
+
+2 ways of Temperature correlation: 1, find a sea point , or 2, height correction. Use height to correct the air temperature and see the bias compared to the observational data.
+
