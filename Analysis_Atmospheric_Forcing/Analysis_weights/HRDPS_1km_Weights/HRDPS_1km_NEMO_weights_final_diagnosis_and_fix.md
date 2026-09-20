@@ -46,6 +46,9 @@ sector 判定只要求 a>=0、b>=0，没有要求 a<=1、b<=1
 4. **单点失败后全局 `RETURN` 是灾难性控制流错误；**
 5. **缺乏最终完整性检查使半成品文件成功落盘。**
 
+
+原代码见：https://github.com/SalishSeaCast/NEMO-EastCoast/tree/master/NEMO_Preparation/4_weights_ATMOS
+
 ---
 
 ## 2. 几何背景：NEMO 南侧确实部分超出 HRDPS 1 km
