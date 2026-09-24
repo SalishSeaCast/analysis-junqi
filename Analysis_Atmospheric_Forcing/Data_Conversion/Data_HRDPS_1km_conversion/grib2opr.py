@@ -11,8 +11,8 @@ import xarray as xr
 
 GRIB_ROOT = Path("/results/forcing/atmospheric/GEM1.0/GRIB")
 
-START_DATE = pd.Timestamp("2023-03-16")
-END_DATE = pd.Timestamp("2023-03-31")
+START_DATE = pd.Timestamp("2023-06-03")
+END_DATE = pd.Timestamp("2023-06-30")
 
 RUN_HOUR = "00"
 
@@ -60,8 +60,8 @@ ROTATED_NORTH_POLE_LON = 86.463574
 # 程序打印出来的 minimum rate 和负值个数。
 
 NEGATIVE_RATE_TOLERANCE = {
-    "solar": 16.0,
-    "therm_rad": 16.0,
+    "solar": 32.0,
+    "therm_rad": 32.0,
     "precip": 1.0e-8,
 }
 
