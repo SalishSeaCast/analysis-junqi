@@ -11,8 +11,8 @@ import xarray as xr
 
 GRIB_ROOT = Path("/results/forcing/atmospheric/GEM1.0/GRIB")
 
-START_DATE = pd.Timestamp("2023-06-03")
-END_DATE = pd.Timestamp("2023-06-30")
+START_DATE = pd.Timestamp("2023-12-01")
+END_DATE = pd.Timestamp("2023-12-31")
 
 RUN_HOUR = "00"
 
