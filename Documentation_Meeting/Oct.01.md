@@ -26,3 +26,25 @@ Link: https://github.com/SalishSeaCast/analysis-junqi/blob/main/Analysis_Atmosph
 
 Probably not so reliable. The processing has been quite painful.
 
+## To Do
+
+### Wind correction
+
+first compare the different correction plans. Maybe the correction at Pam Rocks will make wind worse (even weaker). 
+
+Take a look at winds in the different models, to see if they are really so different.
+
+### All compare debug
+
+Correct the hailcline calculation, maybe get rid of the bottom. 
+
+Why HRDPS 2.5 has low salinity at specific regions?
+
+### CaSR Biological Response
+
+Figure out why CaSR has low Nitrate and high diatom/flagellates. (They are not dino).
+
+### Rerun the simulations 
+
+Run everything with 6.5K corrections for all models and find out the difference. See what the next largest problem is.
+
