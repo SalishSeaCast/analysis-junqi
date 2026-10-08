@@ -35,4 +35,10 @@ Lower wind stress (confirmed by flux outputs) -> less mixing (not proved) -> mor
 
 `HRDPS 10km`: Lower wind stress (confirmed by flux outputs) -> less mixing (not proved) -> more PAR (confirmed by outputs), but not as significant. Don't know why.
 
+## To Do
+
+Check this out why hindcast and flux runs are so different. Probably the restart or boundary conditions.
+
+Probably look more into the wind.
+
 
