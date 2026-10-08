@@ -13,6 +13,8 @@ Using the old results in the server. I have replaced it with my new results.
 
 https://github.com/SalishSeaCast/analysis-junqi/blob/main/Analysis_Atmospheric_Forcing/Analysis_results_comparison/00MMM2023/All_compare_old.ipynb
 
+https://github.com/SalishSeaCast/analysis-junqi/blob/main/Analysis_Atmospheric_Forcing/Analysis_results_comparison/00MMM2023/Problem_All_Compare/What's_Wrong_with_Salinity.ipynb
+
 ## Wind 
 
 *Old comparison*
