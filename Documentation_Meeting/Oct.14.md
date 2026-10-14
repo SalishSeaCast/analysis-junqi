@@ -6,6 +6,8 @@ https://github.com/SalishSeaCast/analysis-junqi/blob/main/Analysis_Atmospheric_F
 
 Probably was caused by mask or invalid values. No systematic difference at specific points or in the Salish Sea.
 
+Use T grid mask (Tmask) in the meshmask file in grid. Use it for constancy. (1 and 0 where there is ocean and land)
+
 ## Bio response
 
 ### CaSR
@@ -24,3 +26,10 @@ https://github.com/SalishSeaCast/analysis-junqi/blob/main/Analysis_Atmospheric_F
 Still lower wind stress and higher PAR, but no such significant bio-response.
 
 https://github.com/SalishSeaCast/analysis-junqi/blob/main/Analysis_Atmospheric_Forcing/Analysis_results_comparison/00MMM2023/Bio_response.ipynb
+
+
+## TO DO
+
+Check the codes, averaging especially.
+
+Plots of surface PAR maps.
