@@ -13,3 +13,13 @@ https://github.com/SalishSeaCast/analysis-junqi/blob/main/Analysis_Atmospheric_F
 Maybe the CaSR driven diatom increase continued into April? I'm not seeing the diatom in HRDPS surpassing CaSR in April.
 
 https://github.com/SalishSeaCast/analysis-junqi/blob/main/Analysis_Atmospheric_Forcing/Analysis_results_comparison/Analysis_continuous/CaSR_mar_apr.ipynb
+
+## TO DO
+
+Try pcolor of bio vs time vs depth. See the difference as well. 
+
+('Spring' happens whenever we use CaSR, either in December or in March.) 
+
+The wind stress map. Figure out why wind stress is influenced by Resolution (or whether it's influenced, or it's just different regions.)
+
+Sensitivity Experiments: CaSR winds + HRDPS everything else, vice versa.
