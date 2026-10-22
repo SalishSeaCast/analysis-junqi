@@ -28,8 +28,8 @@ BASE_PATH = '/ocean/jqiu/forcings_raw/CaSR_raw/2008_2024_Integrated/'
 OUTPUT_DIR = '/ocean/jqiu/forcings/CaSR/'
 
 # dates of covert, both ends included
-START_DATE = '2023-12-01'
-END_DATE = '2023-12-31'
+START_DATE = '2023-04-01'
+END_DATE = '2023-04-30'
 
 # Overwrite the existing files
 OVERWRITE_EXISTING = True
