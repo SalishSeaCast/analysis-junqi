@@ -19,3 +19,10 @@ Recall the Solar Radiation from the forcing field:
 https://github.com/SalishSeaCast/analysis-junqi/blob/main/Analysis_Atmospheric_Forcing/Analysis_results_comparison/00Mar2023_flux/00Mar2023_SST.ipynb
 
 Not significantly different in March (but they are quite different in winters).
+
+
+## TO Do
+
+Swap Solar radiation and (longwave+humidity+temperature) and find out who in the 'other variables' is causing the diatom response.
+
+Averaging the box instead of the single points. 
