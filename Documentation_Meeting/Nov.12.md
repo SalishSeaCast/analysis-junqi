@@ -37,3 +37,11 @@ Scatter plot for wind stress and diatoms.
 HRDPS 10 slightly increases diatom growth rates, while CaSR does it significantly.
 
 https://github.com/SalishSeaCast/analysis-junqi/blob/main/Analysis_Atmospheric_Forcing/Analysis_results_comparison/Analysis_sensitivity/Vertical_integrate.ipynb
+
+## To Do
+
+1. in `grid_w`, there is turbulence diffusivity. Find out and see if wind stress difference is causing mixing difference. See profiles as well. See the profile difference especially at depth, see higher mixing higher diatom. Also how they change in 24 hours.
+
+2. Solar radiation maps and scatters.
+
+3. Find upwelling and downwelling signals. Probably need to find another month of the year.
