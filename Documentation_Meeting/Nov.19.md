@@ -18,3 +18,11 @@ Probably we could see the diatom response. The surface salinity however, was mor
 
 https://github.com/SalishSeaCast/analysis-junqi/blob/main/Analysis_Atmospheric_Forcing/Analysis_atmo_events/Jun_2023/Wind_event.ipynb
 
+## To Do
+
+Solar radiation map. See if there is any spatial pattern. Longer patterns. 
+
+See the Salinity in the further North. Centre SoG is also affected by Fraser River.
+
+Wind correction using the weights file corrected and see if it works.
+
