@@ -26,3 +26,11 @@ https://github.com/SalishSeaCast/analysis-junqi/blob/main/Analysis_Atmospheric_F
 Light limit probably confirmed in Mar 1.
 
 More light (in CaSR) is better.
+
+## TO DO
+
+Mean solar radiation map (maybe nothing significant)
+
+Scatter plot for solar radiation, and find if there is a curve for CaSR vs HRDPS 2.5. See March and September. Calculate the percentage of solar radiation removed by clouds. 
+
+Do correction when NIBI comes back.
